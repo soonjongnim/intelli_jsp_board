@@ -2,5 +2,6 @@
 <Context docBase="C:\java\jsp_board\src\main\webapp">
   <Resources cacheMaxSize="10240">
     <PreResources base="C:/java/jsp_board/out/production/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+    <PostResources base="C:/Users/dube/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.42/8365263844ebb62398e0dc33057ba10ba472d3b8/lombok-1.18.42.jar" className="org.apache.catalina.webresources.FileResourceSet" webAppMount="/WEB-INF/lib/lombok-1.18.42.jar"/>
   </Resources>
 </Context>
